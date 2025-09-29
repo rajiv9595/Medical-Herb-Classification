@@ -11,3 +11,10 @@ It applies Convolutional Neural Networks (CNNs) to identify different categories
 - Matplotlib, Seaborn
 
 ## 📂 Project Structure
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rajiv9595/Medical-Herb-Classification.git
+   cd Medical-Herb-Classification
+   pip install -r requirements.txt
