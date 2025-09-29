@@ -18,3 +18,19 @@ It applies Convolutional Neural Networks (CNNs) to identify different categories
    git clone https://github.com/rajiv9595/Medical-Herb-Classification.git
    cd Medical-Herb-Classification
    pip install -r requirements.txt
+📊 Results:
+
+Achieved 91% accuracy on test data.
+
+Confusion matrix and classification report included in results.
+
+🎯 Future Work:
+
+Improve accuracy with data augmentation.
+
+Deploy as a web application using Streamlit/Flask.
+
+👤 Author
+   M.RAJEEV REDDY
+Your Name:
+📧 medapatirajiv9494@gmail.com
